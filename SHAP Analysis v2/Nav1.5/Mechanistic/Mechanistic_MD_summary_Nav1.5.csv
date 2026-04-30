@@ -1,0 +1,11 @@
+Endpoint,Role,Activity_Label,Compound_ID,SMILES,pIC50,Rank,Feature,SHAP_value,SHAP_abs,SHAP_direction,Feature_val_scaled,Base_value_ev
+Nav1.5,Blocker,Blocker,126669001,O=C1COCCN1c1cc(C(F)(F)F)ccc1C1CCOc2cc(S(=O)(=O)Nc3ncccn3)ccc21,5.0,1,n10FARing,0.031482,0.031482,Towards Blocker,2.503305,0.989979
+Nav1.5,Blocker,Blocker,126669001,O=C1COCCN1c1cc(C(F)(F)F)ccc1C1CCOc2cc(S(=O)(=O)Nc3ncccn3)ccc21,5.0,2,ATSC2s,0.030031,0.030031,Towards Blocker,0.629939,0.989979
+Nav1.5,Blocker,Blocker,126669001,O=C1COCCN1c1cc(C(F)(F)F)ccc1C1CCOc2cc(S(=O)(=O)Nc3ncccn3)ccc21,5.0,3,n6AHRing,0.013926,0.013926,Towards Blocker,2.658571,0.989979
+Nav1.5,Blocker,Blocker,126669001,O=C1COCCN1c1cc(C(F)(F)F)ccc1C1CCOc2cc(S(=O)(=O)Nc3ncccn3)ccc21,5.0,4,SlogP_VSA10,0.011018,0.011018,Towards Blocker,1.288213,0.989979
+Nav1.5,Blocker,Blocker,126669001,O=C1COCCN1c1cc(C(F)(F)F)ccc1C1CCOc2cc(S(=O)(=O)Nc3ncccn3)ccc21,5.0,5,SlogP_VSA11,0.009401,0.009401,Towards Blocker,0.312826,0.989979
+Nav1.5,Non-blocker,Non-blocker,Arab et al,CC1(O)CC[C@@]2(C)[C@H](C[C@@H](N3CCC[C@@H](N)C3)[C@@H]2Oc2ccc(C#N)cc2)C1,4.0,1,n10FARing,0.051008,0.051008,Towards Blocker,2.503305,0.989979
+Nav1.5,Non-blocker,Non-blocker,Arab et al,CC1(O)CC[C@@]2(C)[C@H](C[C@@H](N3CCC[C@@H](N)C3)[C@@H]2Oc2ccc(C#N)cc2)C1,4.0,2,MATS4i,0.024591,0.024591,Towards Blocker,-1.159074,0.989979
+Nav1.5,Non-blocker,Non-blocker,Arab et al,CC1(O)CC[C@@]2(C)[C@H](C[C@@H](N3CCC[C@@H](N)C3)[C@@H]2Oc2ccc(C#N)cc2)C1,4.0,3,GATS2p,0.012956,0.012956,Towards Blocker,-1.460589,0.989979
+Nav1.5,Non-blocker,Non-blocker,Arab et al,CC1(O)CC[C@@]2(C)[C@H](C[C@@H](N3CCC[C@@H](N)C3)[C@@H]2Oc2ccc(C#N)cc2)C1,4.0,4,GATS3c,-0.011745,0.011745,Towards Non-blocker,-1.236246,0.989979
+Nav1.5,Non-blocker,Non-blocker,Arab et al,CC1(O)CC[C@@]2(C)[C@H](C[C@@H](N3CCC[C@@H](N)C3)[C@@H]2Oc2ccc(C#N)cc2)C1,4.0,5,GATS7s,0.011722,0.011722,Towards Blocker,0.418769,0.989979

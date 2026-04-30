@@ -1,0 +1,21 @@
+Endpoint,Role,SMILES,Feature,MACCS_bit_index,SMARTS,Description,SHAP_value,SHAP_abs,SHAP_direction
+Cav1.2,Blocker,CO/C(O)=C1\C(C)=NC(C)=C(C(=O)OCC(C)C)C1c1cccc([N+](=O)[O-])c1,MACCS_45,45,Br,BR,0.048026,0.048026,Towards Blocker
+Cav1.2,Blocker,CO/C(O)=C1\C(C)=NC(C)=C(C(=O)OCC(C)C)C1c1cccc([N+](=O)[O-])c1,MACCS_74,74,*!@[#7]@*,A!N$A,0.044871,0.044871,Towards Blocker
+Cav1.2,Blocker,CO/C(O)=C1\C(C)=NC(C)=C(C(=O)OCC(C)C)C1c1cccc([N+](=O)[O-])c1,MACCS_76,76,[#7]~*~[#7],NAN,0.036213,0.036213,Towards Blocker
+Cav1.2,Blocker,CO/C(O)=C1\C(C)=NC(C)=C(C(=O)OCC(C)C)C1c1cccc([N+](=O)[O-])c1,MACCS_126,126,*@*!@[#8],A$A!O > 1 (&...) FIX: incomplete definition,0.013002,0.013002,Towards Blocker
+Cav1.2,Blocker,CO/C(O)=C1\C(C)=NC(C)=C(C(=O)OCC(C)C)C1c1cccc([N+](=O)[O-])c1,MACCS_99,99,*~[CH2]~[#7],ACH2N,0.011402,0.011402,Towards Blocker
+Cav1.2,Blocker,CO/C(O)=C1\C(C)=NC(C)=C(C(=O)OCC(C)C)C1c1cccc([N+](=O)[O-])c1,MACCS_141,141,[#7],N > 1,0.01013,0.01013,Towards Blocker
+Cav1.2,Blocker,CO/C(O)=C1\C(C)=NC(C)=C(C(=O)OCC(C)C)C1c1cccc([N+](=O)[O-])c1,MACCS_95,95,*1~*~*~*~*~1,5 M ring,0.007224,0.007224,Towards Blocker
+Cav1.2,Blocker,CO/C(O)=C1\C(C)=NC(C)=C(C(=O)OCC(C)C)C1c1cccc([N+](=O)[O-])c1,MACCS_136,136,[!C;!c;R],Heterocycle,-0.006538,0.006538,Towards Non-blocker
+Cav1.2,Blocker,CO/C(O)=C1\C(C)=NC(C)=C(C(=O)OCC(C)C)C1c1cccc([N+](=O)[O-])c1,MACCS_71,71,[#8]~*~*~[#8],OAAO,0.005887,0.005887,Towards Blocker
+Cav1.2,Blocker,CO/C(O)=C1\C(C)=NC(C)=C(C(=O)OCC(C)C)C1c1cccc([N+](=O)[O-])c1,MACCS_102,102,Cl,CL,0.005831,0.005831,Towards Blocker
+Cav1.2,Non-blocker,CCN=C1NC2C(OC(CO)C(O)C2O)S1,MACCS_45,45,Br,BR,-0.025357,0.025357,Towards Non-blocker
+Cav1.2,Non-blocker,CCN=C1NC2C(OC(CO)C(O)C2O)S1,MACCS_76,76,[#7]~*~[#7],NAN,-0.021752,0.021752,Towards Non-blocker
+Cav1.2,Non-blocker,CCN=C1NC2C(OC(CO)C(O)C2O)S1,MACCS_74,74,*!@[#7]@*,A!N$A,-0.020457,0.020457,Towards Non-blocker
+Cav1.2,Non-blocker,CCN=C1NC2C(OC(CO)C(O)C2O)S1,MACCS_146,146,"[$(*~[CH2]~[CH2]~*),$([R]1@[CH2;R]@[CH2;R]1)]",ACH2CH2A,-0.015292,0.015292,Towards Non-blocker
+Cav1.2,Non-blocker,CCN=C1NC2C(OC(CO)C(O)C2O)S1,MACCS_112,112,[#8]!:*:*,Onot%A%A,-0.01504,0.01504,Towards Non-blocker
+Cav1.2,Non-blocker,CCN=C1NC2C(OC(CO)C(O)C2O)S1,MACCS_89,89,"[$([!#6;!#1;!H0]~*~*~[CH2]~*),$([!#6;!#1;!H0;R]1@[R]@[R]@[CH2;R]1),$([!#6;!#1;!H0]~[R]1@[R]@[CH2;R]1)]",QHAACH2A,-0.013209,0.013209,Towards Non-blocker
+Cav1.2,Non-blocker,CCN=C1NC2C(OC(CO)C(O)C2O)S1,MACCS_139,139,[#8],O > 3 (&...) FIX: incomplete definition,-0.013012,0.013012,Towards Non-blocker
+Cav1.2,Non-blocker,CCN=C1NC2C(OC(CO)C(O)C2O)S1,MACCS_95,95,*1~*~*~*~*~1,5 M ring,-0.012691,0.012691,Towards Non-blocker
+Cav1.2,Non-blocker,CCN=C1NC2C(OC(CO)C(O)C2O)S1,MACCS_88,88,[#8]~*~*~*~[#8],OAAAO,-0.011333,0.011333,Towards Non-blocker
+Cav1.2,Non-blocker,CCN=C1NC2C(OC(CO)C(O)C2O)S1,MACCS_126,126,*@*!@[#8],A$A!O > 1 (&...) FIX: incomplete definition,-0.009692,0.009692,Towards Non-blocker

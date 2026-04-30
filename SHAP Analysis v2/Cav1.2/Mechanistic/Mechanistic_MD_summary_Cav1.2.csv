@@ -1,0 +1,11 @@
+Endpoint,Role,Activity_Label,Compound_ID,SMILES,pIC50,Rank,Feature,SHAP_value,SHAP_abs,SHAP_direction,Feature_val_scaled,Base_value_ev
+Cav1.2,Blocker,Blocker,Arab et al,CO/C(O)=C1\C(C)=NC(C)=C(C(=O)OCC(C)C)C1c1cccc([N+](=O)[O-])c1,11.09691,1,GATS5c,0.036358,0.036358,Towards Blocker,0.986346,0.991331
+Cav1.2,Blocker,Blocker,Arab et al,CO/C(O)=C1\C(C)=NC(C)=C(C(=O)OCC(C)C)C1c1cccc([N+](=O)[O-])c1,11.09691,2,Xch-7dv,0.023585,0.023585,Towards Blocker,-0.466271,0.991331
+Cav1.2,Blocker,Blocker,Arab et al,CO/C(O)=C1\C(C)=NC(C)=C(C(=O)OCC(C)C)C1c1cccc([N+](=O)[O-])c1,11.09691,3,Xch-5dv,0.016221,0.016221,Towards Blocker,-0.575267,0.991331
+Cav1.2,Blocker,Blocker,Arab et al,CO/C(O)=C1\C(C)=NC(C)=C(C(=O)OCC(C)C)C1c1cccc([N+](=O)[O-])c1,11.09691,4,ATSC5se,0.015117,0.015117,Towards Blocker,-1.433556,0.991331
+Cav1.2,Blocker,Blocker,Arab et al,CO/C(O)=C1\C(C)=NC(C)=C(C(=O)OCC(C)C)C1c1cccc([N+](=O)[O-])c1,11.09691,5,GATS5d,0.01496,0.01496,Towards Blocker,1.190775,0.991331
+Cav1.2,Non-blocker,Non-blocker,135566354,CCN=C1NC2C(OC(CO)C(O)C2O)S1,4.522878745,1,SLogP,-0.041765,0.041765,Towards Non-blocker,-2.619235,0.991331
+Cav1.2,Non-blocker,Non-blocker,135566354,CCN=C1NC2C(OC(CO)C(O)C2O)S1,4.522878745,2,GATS5c,-0.028727,0.028727,Towards Non-blocker,-0.269345,0.991331
+Cav1.2,Non-blocker,Non-blocker,135566354,CCN=C1NC2C(OC(CO)C(O)C2O)S1,4.522878745,3,GATS5d,-0.018049,0.018049,Towards Non-blocker,-0.53642,0.991331
+Cav1.2,Non-blocker,Non-blocker,135566354,CCN=C1NC2C(OC(CO)C(O)C2O)S1,4.522878745,4,FilterItLogS,-0.016959,0.016959,Towards Non-blocker,2.382021,0.991331
+Cav1.2,Non-blocker,Non-blocker,135566354,CCN=C1NC2C(OC(CO)C(O)C2O)S1,4.522878745,5,AXp-7d,-0.015985,0.015985,Towards Non-blocker,0.660607,0.991331

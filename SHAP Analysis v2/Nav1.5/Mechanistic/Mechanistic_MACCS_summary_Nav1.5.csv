@@ -1,0 +1,21 @@
+Endpoint,Role,SMILES,Feature,MACCS_bit_index,SMARTS,Description,SHAP_value,SHAP_abs,SHAP_direction
+Nav1.5,Blocker,O=C1COCCN1c1cc(C(F)(F)F)ccc1C1CCOc2cc(S(=O)(=O)Nc3ncccn3)ccc21,MACCS_57,57,[!#6;!#1]~[#16]~[!#6;!#1],QSQ,0.022951,0.022951,Towards Blocker
+Nav1.5,Blocker,O=C1COCCN1c1cc(C(F)(F)F)ccc1C1CCOc2cc(S(=O)(=O)Nc3ncccn3)ccc21,MACCS_113,113,[CH3]~[CH2]~*,CH3CH2A,0.013349,0.013349,Towards Blocker
+Nav1.5,Blocker,O=C1COCCN1c1cc(C(F)(F)F)ccc1C1CCOc2cc(S(=O)(=O)Nc3ncccn3)ccc21,MACCS_96,96,[#7]~*~*~*~[#8],NAAAO,0.007665,0.007665,Towards Blocker
+Nav1.5,Blocker,O=C1COCCN1c1cc(C(F)(F)F)ccc1C1CCOc2cc(S(=O)(=O)Nc3ncccn3)ccc21,MACCS_25,25,[#6]=;@[#6](@*)@*,C$=C($A)$A,0.007162,0.007162,Towards Blocker
+Nav1.5,Blocker,O=C1COCCN1c1cc(C(F)(F)F)ccc1C1CCOc2cc(S(=O)(=O)Nc3ncccn3)ccc21,MACCS_109,109,[#7]~[#6]~[#8],NCO,0.006817,0.006817,Towards Blocker
+Nav1.5,Blocker,O=C1COCCN1c1cc(C(F)(F)F)ccc1C1CCOc2cc(S(=O)(=O)Nc3ncccn3)ccc21,MACCS_147,147,*~[!#6;!#1](~*)~*,AQ(A)A,0.005794,0.005794,Towards Blocker
+Nav1.5,Blocker,O=C1COCCN1c1cc(C(F)(F)F)ccc1C1CCOc2cc(S(=O)(=O)Nc3ncccn3)ccc21,MACCS_131,131,[#8]~*~[CH2]~*,OACH2A,0.004721,0.004721,Towards Blocker
+Nav1.5,Blocker,O=C1COCCN1c1cc(C(F)(F)F)ccc1C1CCOc2cc(S(=O)(=O)Nc3ncccn3)ccc21,MACCS_108,108,*~[CH2]~[#8],ACH2O,0.004242,0.004242,Towards Blocker
+Nav1.5,Blocker,O=C1COCCN1c1cc(C(F)(F)F)ccc1C1CCOc2cc(S(=O)(=O)Nc3ncccn3)ccc21,MACCS_125,125,*!@[#8]!@*,A!O!A,0.003759,0.003759,Towards Blocker
+Nav1.5,Blocker,O=C1COCCN1c1cc(C(F)(F)F)ccc1C1CCOc2cc(S(=O)(=O)Nc3ncccn3)ccc21,MACCS_95,95,*1~*~*~*~*~1,5 M ring,-0.003718,0.003718,Towards Non-blocker
+Nav1.5,Non-blocker,CC1(O)CC[C@@]2(C)[C@H](C[C@@H](N3CCC[C@@H](N)C3)[C@@H]2Oc2ccc(C#N)cc2)C1,MACCS_125,125,*!@[#8]!@*,A!O!A,-0.074552,0.074552,Towards Non-blocker
+Nav1.5,Non-blocker,CC1(O)CC[C@@]2(C)[C@H](C[C@@H](N3CCC[C@@H](N)C3)[C@@H]2Oc2ccc(C#N)cc2)C1,MACCS_108,108,*~[CH2]~[#8],ACH2O,-0.023376,0.023376,Towards Non-blocker
+Nav1.5,Non-blocker,CC1(O)CC[C@@]2(C)[C@H](C[C@@H](N3CCC[C@@H](N)C3)[C@@H]2Oc2ccc(C#N)cc2)C1,MACCS_96,96,[#7]~*~*~*~[#8],NAAAO,-0.022332,0.022332,Towards Non-blocker
+Nav1.5,Non-blocker,CC1(O)CC[C@@]2(C)[C@H](C[C@@H](N3CCC[C@@H](N)C3)[C@@H]2Oc2ccc(C#N)cc2)C1,MACCS_131,131,[#8]~*~[CH2]~*,OACH2A,-0.016652,0.016652,Towards Non-blocker
+Nav1.5,Non-blocker,CC1(O)CC[C@@]2(C)[C@H](C[C@@H](N3CCC[C@@H](N)C3)[C@@H]2Oc2ccc(C#N)cc2)C1,MACCS_95,95,*1~*~*~*~*~1,5 M ring,-0.015661,0.015661,Towards Non-blocker
+Nav1.5,Non-blocker,CC1(O)CC[C@@]2(C)[C@H](C[C@@H](N3CCC[C@@H](N)C3)[C@@H]2Oc2ccc(C#N)cc2)C1,MACCS_106,106,"[F,Cl,Br,I]~*(~*)~*",XA(A)A,-0.015352,0.015352,Towards Non-blocker
+Nav1.5,Non-blocker,CC1(O)CC[C@@]2(C)[C@H](C[C@@H](N3CCC[C@@H](N)C3)[C@@H]2Oc2ccc(C#N)cc2)C1,MACCS_89,89,"[$([!#6;!#1;!H0]~*~*~[CH2]~*),$([!#6;!#1;!H0;R]1@[R]@[R]@[CH2;R]1),$([!#6;!#1;!H0]~[R]1@[R]@[CH2;R]1)]",QHAACH2A,-0.010825,0.010825,Towards Non-blocker
+Nav1.5,Non-blocker,CC1(O)CC[C@@]2(C)[C@H](C[C@@H](N3CCC[C@@H](N)C3)[C@@H]2Oc2ccc(C#N)cc2)C1,MACCS_57,57,[!#6;!#1]~[#16]~[!#6;!#1],QSQ,-0.00744,0.00744,Towards Non-blocker
+Nav1.5,Non-blocker,CC1(O)CC[C@@]2(C)[C@H](C[C@@H](N3CCC[C@@H](N)C3)[C@@H]2Oc2ccc(C#N)cc2)C1,MACCS_77,77,[#6]=[#7],C=N,-0.00721,0.00721,Towards Non-blocker
+Nav1.5,Non-blocker,CC1(O)CC[C@@]2(C)[C@H](C[C@@H](N3CCC[C@@H](N)C3)[C@@H]2Oc2ccc(C#N)cc2)C1,MACCS_103,103,[!#6;!#1;!H0]~*~[CH2]~*,QHACH2A,-0.006838,0.006838,Towards Non-blocker

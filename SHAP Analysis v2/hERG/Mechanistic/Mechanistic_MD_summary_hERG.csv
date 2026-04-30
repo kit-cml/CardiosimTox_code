@@ -1,0 +1,11 @@
+Endpoint,Role,Activity_Label,Compound_ID,SMILES,pIC50,Rank,Feature,SHAP_value,SHAP_abs,SHAP_direction,Feature_val_scaled,Base_value_ev
+hERG,Blocker,Blocker,Arab et al,Cn1c(SCCCN2CC[C@]3(C[C@@H]3c3ccc(C(F)(F)F)cc3)C2)nnc1-c1cccs1,7.0,1,FilterItLogS,-0.05563,0.05563,Towards Non-blocker,1.08741,0.262999
+hERG,Blocker,Blocker,Arab et al,Cn1c(SCCCN2CC[C@]3(C[C@@H]3c3ccc(C(F)(F)F)cc3)C2)nnc1-c1cccs1,7.0,2,nC,-0.020939,0.020939,Towards Non-blocker,-1.026772,0.262999
+hERG,Blocker,Blocker,Arab et al,Cn1c(SCCCN2CC[C@]3(C[C@@H]3c3ccc(C(F)(F)F)cc3)C2)nnc1-c1cccs1,7.0,3,IC3,-0.020011,0.020011,Towards Non-blocker,-1.873181,0.262999
+hERG,Blocker,Blocker,Arab et al,Cn1c(SCCCN2CC[C@]3(C[C@@H]3c3ccc(C(F)(F)F)cc3)C2)nnc1-c1cccs1,7.0,4,GATS1pe,-0.019097,0.019097,Towards Non-blocker,1.189311,0.262999
+hERG,Blocker,Blocker,Arab et al,Cn1c(SCCCN2CC[C@]3(C[C@@H]3c3ccc(C(F)(F)F)cc3)C2)nnc1-c1cccs1,7.0,5,nBase,0.017907,0.017907,Towards Blocker,0.269635,0.262999
+hERG,Non-blocker,Non-blocker,Arab et al,Cn1nc(C(O)c2cc(-c3ncnc4cc(N5CCOCC5)ccc34)c(F)cc2Cl)ccc1=O,4.698970004,1,FilterItLogS,-0.05563,0.05563,Towards Non-blocker,1.08741,0.262999
+hERG,Non-blocker,Non-blocker,Arab et al,Cn1nc(C(O)c2cc(-c3ncnc4cc(N5CCOCC5)ccc34)c(F)cc2Cl)ccc1=O,4.698970004,2,nC,-0.020939,0.020939,Towards Non-blocker,-1.026772,0.262999
+hERG,Non-blocker,Non-blocker,Arab et al,Cn1nc(C(O)c2cc(-c3ncnc4cc(N5CCOCC5)ccc34)c(F)cc2Cl)ccc1=O,4.698970004,3,IC3,-0.020011,0.020011,Towards Non-blocker,-1.873181,0.262999
+hERG,Non-blocker,Non-blocker,Arab et al,Cn1nc(C(O)c2cc(-c3ncnc4cc(N5CCOCC5)ccc34)c(F)cc2Cl)ccc1=O,4.698970004,4,GATS1pe,-0.019097,0.019097,Towards Non-blocker,1.189311,0.262999
+hERG,Non-blocker,Non-blocker,Arab et al,Cn1nc(C(O)c2cc(-c3ncnc4cc(N5CCOCC5)ccc34)c(F)cc2Cl)ccc1=O,4.698970004,5,nBase,0.017907,0.017907,Towards Blocker,0.269635,0.262999

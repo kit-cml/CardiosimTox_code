@@ -1,0 +1,21 @@
+Endpoint,Role,SMILES,Feature,MACCS_bit_index,SMARTS,Description,SHAP_value,SHAP_abs,SHAP_direction
+hERG,Blocker,Cn1c(SCCCN2CC[C@]3(C[C@@H]3c3ccc(C(F)(F)F)cc3)C2)nnc1-c1cccs1,MACCS_139,139,[#8],O > 3 (&...) FIX: incomplete definition,0.013481,0.013481,Towards Blocker
+hERG,Blocker,Cn1c(SCCCN2CC[C@]3(C[C@@H]3c3ccc(C(F)(F)F)cc3)C2)nnc1-c1cccs1,MACCS_136,136,[!C;!c;R],Heterocycle,0.013168,0.013168,Towards Blocker
+hERG,Blocker,Cn1c(SCCCN2CC[C@]3(C[C@@H]3c3ccc(C(F)(F)F)cc3)C2)nnc1-c1cccs1,MACCS_133,133,"[F,Cl,Br,I]",X (HALOGEN),0.011183,0.011183,Towards Blocker
+hERG,Blocker,Cn1c(SCCCN2CC[C@]3(C[C@@H]3c3ccc(C(F)(F)F)cc3)C2)nnc1-c1cccs1,MACCS_128,128,"[$(*~[CH2]~*~*~[CH2]~*),$([R]1@[CH2]@[R]@[R]@[CH2;R]1),$(*~[CH2]~[R]1@[R]@[CH2;R]1)]",ACH2AACH2A,0.010389,0.010389,Towards Blocker
+hERG,Blocker,Cn1c(SCCCN2CC[C@]3(C[C@@H]3c3ccc(C(F)(F)F)cc3)C2)nnc1-c1cccs1,MACCS_146,146,"[$(*~[CH2]~[CH2]~*),$([R]1@[CH2;R]@[CH2;R]1)]",ACH2CH2A,0.009987,0.009987,Towards Blocker
+hERG,Blocker,Cn1c(SCCCN2CC[C@]3(C[C@@H]3c3ccc(C(F)(F)F)cc3)C2)nnc1-c1cccs1,MACCS_154,154,*!@[CH2]!@*,A!CH2!A,0.00928,0.00928,Towards Blocker
+hERG,Blocker,Cn1c(SCCCN2CC[C@]3(C[C@@H]3c3ccc(C(F)(F)F)cc3)C2)nnc1-c1cccs1,MACCS_108,108,*~[CH2]~[#8],ACH2O,0.008001,0.008001,Towards Blocker
+hERG,Blocker,Cn1c(SCCCN2CC[C@]3(C[C@@H]3c3ccc(C(F)(F)F)cc3)C2)nnc1-c1cccs1,MACCS_129,129,[!#6;!#1]~[!#6;!#1],QQ > 1 (&...)  FIX: incomplete definition,0.007481,0.007481,Towards Blocker
+hERG,Blocker,Cn1c(SCCCN2CC[C@]3(C[C@@H]3c3ccc(C(F)(F)F)cc3)C2)nnc1-c1cccs1,MACCS_95,95,*1~*~*~*~*~1,5 M ring,0.007465,0.007465,Towards Blocker
+hERG,Blocker,Cn1c(SCCCN2CC[C@]3(C[C@@H]3c3ccc(C(F)(F)F)cc3)C2)nnc1-c1cccs1,MACCS_125,125,*!@[#8]!@*,A!O!A,0.006917,0.006917,Towards Blocker
+hERG,Non-blocker,Cn1nc(C(O)c2cc(-c3ncnc4cc(N5CCOCC5)ccc34)c(F)cc2Cl)ccc1=O,MACCS_139,139,[#8],O > 3 (&...) FIX: incomplete definition,-0.051455,0.051455,Towards Non-blocker
+hERG,Non-blocker,Cn1nc(C(O)c2cc(-c3ncnc4cc(N5CCOCC5)ccc34)c(F)cc2Cl)ccc1=O,MACCS_95,95,*1~*~*~*~*~1,5 M ring,-0.011907,0.011907,Towards Non-blocker
+hERG,Non-blocker,Cn1nc(C(O)c2cc(-c3ncnc4cc(N5CCOCC5)ccc34)c(F)cc2Cl)ccc1=O,MACCS_136,136,[!C;!c;R],Heterocycle,0.009401,0.009401,Towards Blocker
+hERG,Non-blocker,Cn1nc(C(O)c2cc(-c3ncnc4cc(N5CCOCC5)ccc34)c(F)cc2Cl)ccc1=O,MACCS_146,146,"[$(*~[CH2]~[CH2]~*),$([R]1@[CH2;R]@[CH2;R]1)]",ACH2CH2A,-0.009154,0.009154,Towards Non-blocker
+hERG,Non-blocker,Cn1nc(C(O)c2cc(-c3ncnc4cc(N5CCOCC5)ccc34)c(F)cc2Cl)ccc1=O,MACCS_109,109,[#7]~[#6]~[#8],NCO,-0.006366,0.006366,Towards Non-blocker
+hERG,Non-blocker,Cn1nc(C(O)c2cc(-c3ncnc4cc(N5CCOCC5)ccc34)c(F)cc2Cl)ccc1=O,MACCS_103,103,[!#6;!#1;!H0]~*~[CH2]~*,QHACH2A,0.006364,0.006364,Towards Blocker
+hERG,Non-blocker,Cn1nc(C(O)c2cc(-c3ncnc4cc(N5CCOCC5)ccc34)c(F)cc2Cl)ccc1=O,MACCS_129,129,[!#6;!#1]~[!#6;!#1],QQ > 1 (&...)  FIX: incomplete definition,0.005977,0.005977,Towards Blocker
+hERG,Non-blocker,Cn1nc(C(O)c2cc(-c3ncnc4cc(N5CCOCC5)ccc34)c(F)cc2Cl)ccc1=O,MACCS_52,52,[!#6;!#1;!H0]~*~*~*~[!#6;!#1;!H0],QHAAAQH,-0.005255,0.005255,Towards Non-blocker
+hERG,Non-blocker,Cn1nc(C(O)c2cc(-c3ncnc4cc(N5CCOCC5)ccc34)c(F)cc2Cl)ccc1=O,MACCS_132,132,*@*!@[#7],A$A!N,-0.004932,0.004932,Towards Non-blocker
+hERG,Non-blocker,Cn1nc(C(O)c2cc(-c3ncnc4cc(N5CCOCC5)ccc34)c(F)cc2Cl)ccc1=O,MACCS_108,108,*~[CH2]~[#8],ACH2O,-0.004872,0.004872,Towards Non-blocker
