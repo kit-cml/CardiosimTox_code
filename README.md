@@ -10,6 +10,18 @@ This repository contains the tutorial notebooks used for molecular descriptor ca
 
 Drug-induced cardiotoxicity remains one of the major causes of drug attrition and post-market withdrawal. A key mechanism underlying this toxicity is the blockade of cardiac ion channels, particularly **hERG**, **Cav1.2**, and **Nav1.5**, which are closely associated with cardiac electrophysiological disturbances.
 
+## Cardiosim-Tox Framework
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kit-cml/CardiosimTox_code/cd8c8c37b0ed4f134132fab7b1d322544d571c22/Cardiosim-Tox%20Framework.png" alt="Cardiosim-Tox Framework" width="900">
+</p>
+
+<p align="center">
+  <em>Overall framework of the Cardiosim-Tox platform for multi-modal feature fusion, multitask learning, and prediction of cardiac ion-channel blockade risk and potency.</em>
+</p>
+
+---
+
 To support early-stage cardiotoxicity screening, this study develops **Cardiosim-Tox**, a multi-modal and multitask QSAR platform that predicts:
 
 1. **Blockade risk**  
