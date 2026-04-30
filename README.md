@@ -161,8 +161,6 @@ This notebook evaluates regression model performance using metrics such as:
 - R²
 - RMSE
 - MAE
-- Pearson correlation
-- Spearman correlation
 
 ---
 
