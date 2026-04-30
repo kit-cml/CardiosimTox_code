@@ -1,4 +1,4 @@
-# Cardiosim-Tox
+# Cardiosim-Tox: An Interpretable Multitask Deep Learning QSAR Platform with Multi-Modal Feature Fusion for hERG, Cav1.2, and Nav1.5 Blockade Risk and Potency Prediction
 
 **Cardiosim-Tox** is an interpretable multitask deep learning QSAR platform for predicting cardiac ion-channel blockade risk and potency across three major cardiac ion channels: **hERG**, **Cav1.2**, and **Nav1.5**.
 
